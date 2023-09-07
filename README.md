@@ -6,4 +6,3 @@
 
    Let's embark on a shared journey of creativity, innovation, and continuous evolution! 🚀👨‍💻🎨
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RNyaupane)](https://github.com/anuraghazra/github-readme-stats)
